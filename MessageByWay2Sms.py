@@ -1,3 +1,8 @@
+#Author Shubham Nagaria
+#coder
+#subhamnagaria@gmail.com
+
+
 import urllib2
 import cookielib
 from getpass import getpass
@@ -45,6 +50,6 @@ def regain():
 
 
 if __name__ == "__main__":    
-    username = "8474938782"
-    passwd = "shubhu05178"
+    username = "USERNAME"
+    passwd = "PASSWORD"
     regain()
